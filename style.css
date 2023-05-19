@@ -9,6 +9,7 @@
     right: 89.58px;
     top: 13px;
     bottom: 20.62px;
+    cursor: pointer;
 
 }
 h1{
@@ -25,6 +26,7 @@ h1{
     font-weight: 900;
     font-size: 20px;
     line-height: 26px;
+    cursor: pointer;
 
 
 }
@@ -53,6 +55,7 @@ image-rendering: auto;
     gap: 36.59px;
     list-style-type: none;
     font-family: 'Work Sans', sans-serif;
+    cursor: pointer;
 }
 
 .Contact{
@@ -87,4 +90,153 @@ font-style: normal;
 font-weight: 900;
 font-size: 26.3424px;
 line-height: 31px;
+}
+
+.logo1{
+flex: none;
+position: absolute;
+left: 490px;
+right: 428.67px;
+top: 100%;
+}
+
+.best_services{
+flex: none;
+position: absolute;
+left: 490px;
+right: 428.67px;
+top: 105%;
+width: 99px;
+height: 17px;
+font-family: 'Work Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 14.6346px;
+line-height: 17px;
+color: #3D445C;
+}
+
+.p1{
+left: 490px;
+right: 428.67px;
+top: 108%;
+width:200px;
+font-family: 'Work Sans';
+font-weight: 400;
+font-size: 11.7077px;
+line-height: 14px;
+color: #858EAD;
+text-align: justify;
+
+}
+
+.border{
+border: 1.02443px solid #E0E3EB;
+border-radius: 2.92693px;
+position: absolute;
+width: 213.67px;
+height: 144.52px;
+left:480px;
+top: 99%;
+}
+
+.logo2{
+    flex: none;
+    position: absolute;
+    left: 900px;
+    right: 428.67px;
+    top: 100%;
+}
+
+.best_teams{
+flex: none;
+position: absolute;
+left:895px;
+right: 428.67px;
+top: 105%;
+width: 99px;
+height: 17px;
+font-family: 'Work Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 14.6346px;
+line-height: 17px;
+color: #3D445C;
+}
+.p_2{
+width: 185.86px;
+height: 28px;
+left:903px;
+right: 428.67px;
+top: 108%;
+text-align: justify;
+
+font-family: 'Work Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 11.7077px;
+line-height: 14px;
+color: #858EAD;
+
+}
+
+.border2{
+border: 1.02443px solid #E0E3EB;
+border-radius: 2.92693px;
+position: absolute;
+width: 213.67px;
+height: 144.52px;
+left:889px;
+right: 428.67px;
+top: 98.5%;
+}
+
+.logo3{
+    flex: none;
+    position: absolute;
+    left: 1290px;
+    right: 428.67px;
+    top: 100%;
+}
+
+.best_designs{
+  
+    position: absolute;
+    left: 1289px;
+    right: 428.67px;
+    top: 105%;
+    width: 99px;
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14.6346px;
+    line-height: 17px;
+    color: #3D445C;
+}
+
+.p_3{
+width: 185.86px;
+height: 28px;
+left:1293px;
+right: 428.67px;
+top: 108%;
+text-align: justify;
+
+font-family: 'Work Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 11.7077px;
+line-height: 14px;
+color: #858EAD;
+}
+
+.border3{
+border: 1.02443px solid #E0E3EB;
+border-radius: 2.92693px;
+position: absolute;
+width: 213.67px;
+height: 144.52px;
+left:1275px;
+right: 428.67px;
+top: 98.5%;
 }
